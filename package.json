@@ -1,7 +1,7 @@
 {
     "name": "@fuzzco/vue-marquee",
-    "version": "1.0.0",
-    "description": "All-in-one image component for Vue.",
+    "version": "1.0.1",
+    "description": "Reliable, accessible, bare-bones marquee in Vue.",
     "main": "dist/vue-marquee.common.js",
     "scripts": {
         "dev": "vue-cli-service serve demo/main",

@@ -1,4 +1,4 @@
-VueMarquee gives you a reliable, accessible, bare-bones marquee in Vue. You provide the content and the styling, this component provides the rest. [Demo](https://fuzzco.github.io/vue-marquee)
+VueMarquee gives you a reliable, accessible, bare-bones marquee in Vue. You provide the content and the styling, this component provides the rest. [Demo](https://fuzzco.github.io/vue-marquee/)
 
 ## Usage
 
